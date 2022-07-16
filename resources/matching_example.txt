@@ -1,0 +1,29 @@
+// question: 0  name: Switch category to $course$/top/Východzí pre testy 
+$CATEGORY: $course$/top/Východzí pre testy
+
+
+// question: 0  name: Switch category to $course$/top/Východzí pre testy/skuska
+$CATEGORY: $course$/top/Východzí pre testy/skuska
+
+
+// question: 175848  name: Priraďovačka 1
+::Priradťe k jednotlivým aktivitám mačaciu reakciu::[html]<p>Priradťe k jednotlivým aktivitám mačaciu reakciu</p>{
+	=[moodle]škrabkanie za uškom -> vrrr vrrr
+	=[moodle]škrabkanie na bruchu, keď myká chvostom -> revízorské chňap
+	=[moodle]zvihnutie mačacej misky -> mrau mraaaau mraaaaaaaaaau
+	=[moodle]kývanie šnúrkou, slúchadlami alebo káblom -> killer hunting mode activated
+	=[moodle]položenie plnej mačacej misky na zem -> mr mrrrrr mr
+	=<p>ignorácia</p> -> lozenie na klávesnicu a premávanie sa pred monitorom
+}
+
+
+// question: 175849  name: Priraďovačka 2
+::Priradťe k častiam dňa mačacie aktivity::[html]<p>Priradťe k častiam dňa mačacie aktivity\:</p>{
+	=[moodle]skoré ráno -> spánok na vankúši
+	=[moodle]neskoré ráno -> zoom zoom
+	=[moodle]doobedie, obed, poobedie -> spánok na radiátore
+	=[moodle]obdobie príchodu z práce -> mrau, venuj sa mi, mraaaau
+	=[moodle]večer -> zoom zoom
+	=<p>noc</p> -> spánok na rôznach miestach
+}
+

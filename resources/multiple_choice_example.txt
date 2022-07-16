@@ -1,0 +1,41 @@
+// question: 0  name: Switch category to $course$/top/Východzí pre testy 
+$CATEGORY: $course$/top/Východzí pre testy
+
+
+// question: 0  name: Switch category to $course$/top/Východzí pre testy/skuska
+$CATEGORY: $course$/top/Východzí pre testy/skuska
+
+
+// question: 178368  name: 1 Skúšobná otázka 1
+::1 Kocúr::Kocúr{
+	~%-33.33333%patrí do čeľade psovité
+	~%33.33333%má 4 nohy
+	~%-33.33333%je ryba
+	~%33.33333%je cicavec
+	~%-33.33333%spí na strope
+	~%33.33333%má rád pribináčik
+}
+
+
+// question: 178369  name: 2 Skúšobná otázka 2
+::2 Mačacie zvuky sú::Mačacie zvuky sú{
+	~%-25%krá krá
+	~%50%miau
+	~%-25%bééééé
+	~%-25%haf haf
+	~%50%vrrr vrrrr
+	~%-25%kvá kvá
+}
+
+
+// question: 178370  name: 3 Skúšobná otázka 3
+::3 Mačací živočích::Mačací živočích{
+	~%16.66667%púšťa chlpy
+	~%16.66667%žerie mačacie konzervy
+	~%16.66667%spí v posteli
+	~%16.66667%vyžaduje pozornosť
+	~%16.66667%je super
+	~%16.66667%funí
+}
+
+
